@@ -1,0 +1,23 @@
+database:
+  host: "localhost"
+  port: "3306"
+  username: "root"
+  password: ""
+  dbname: "tempdb"
+  
+salesforce:
+  username: "jadhavabhi@gmail.com"
+  password: "Abhi@123"
+  securitytoken: "2E7v2LMITIlyQUpo26ue2b2nE"
+  
+listener:
+  port: "8081"
+  
+requestDB:
+  host: "localhost"
+  port: "8082"
+  
+requestSF:
+  host: "localhost"
+  port: "8083"
+  
